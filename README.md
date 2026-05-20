@@ -86,4 +86,15 @@
 * | Time Zone         | Asia/Kolkata              |
 
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/459fd943-c279-4c6d-ba2a-825b296dcd2a" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c91960c9-5511-4daf-8d26-6c889ce05806" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/39d6ff2f-45e0-4ea6-b954-3c783742f389" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/10b86bb1-f0f6-4b2e-ab12-2ad9fa74f2a3" />
+
+
+
+
 
