@@ -84,3 +84,7 @@
 | Messaging         | WhatsApp / Website Widget |
 | AI Model          | OpenAI                    |
 | Time Zone         | Asia/Kolkata              |
+
+<img width="1440" height="900" alt="Screenshot 2026-05-20 at 2 26 16 PM" src="https://github.com/user-attachments/assets/41a55752-04b9-498c-b0dc-f795eeef535d" />
+
+
