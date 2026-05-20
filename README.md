@@ -77,13 +77,13 @@
 ## 🛠 Technology Stack
 
 # | Component         | Technology                |
-| ----------------- | ------------------------- |
-| Conversational AI | Botpress                  |
-| Knowledge Base    | Botpress Knowledge Bases  |
-| Scheduling        | Google Calendar           |
-| Messaging         | WhatsApp / Website Widget |
-| AI Model          | OpenAI                    |
-| Time Zone         | Asia/Kolkata              |
+* | ----------------- | ------------------------- |
+* | Conversational AI | Botpress                  |
+* | Knowledge Base    | Botpress Knowledge Bases  |
+* | Scheduling        | Google Calendar           |
+* | Messaging         | WhatsApp / Website Widget |
+* | AI Model          | OpenAI                    |
+* | Time Zone         | Asia/Kolkata              |
 
 
 
